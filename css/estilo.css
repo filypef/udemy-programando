@@ -20,4 +20,19 @@ h1{
 a{
     font-weight: 400;
     color: #fff;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 20px;
+    display: block;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 150px;
+    text-decoration: none;
 }
+
+hr{
+    height: 6px;
+    background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
